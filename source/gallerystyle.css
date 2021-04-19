@@ -1,7 +1,6 @@
 .container {
     display: flex;
-    width: 100%;
-    padding: 4% 2%;
+      width: 100%;
     box-sizing: border-box ;
     height: 70%;
   }
@@ -21,8 +20,8 @@
     margin:0px;
     padding-right: 2%;
     width: auto;
-    padding-top: 3%;
-    padding-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 .phone{
   color:white;
